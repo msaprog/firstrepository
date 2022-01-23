@@ -1,0 +1,93 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+/* BEGIN (write your solution here) */
+
+#header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 400;
+  margin-bottom: 0px;  
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 8px;
+  /*border-bottom-color: gray;*/
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
+.header-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-bottom-style: none;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 12px;
+}
+
+#main {
+  text-align: left;
+}
+
+hr {
+  border: none;
+  background-color:gray;
+  color:black;
+  height: 1px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.h2main {
+  font-weight: 400;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.pmain {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.orgname {
+  font-size: 24px; 
+  margin-top: 12px;
+  margin-bottom: 5px;
+}
+
+.list {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.listh2main {
+  margin-top: 12px;
+  margin-bottom: 5px;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 64px;  
+}
+
+.pfooter {
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+/* END */
